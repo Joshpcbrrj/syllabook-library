@@ -5,7 +5,7 @@ name: Build EPUBs
 on:
   push:
     branches: [main]
-    paths: ['created-books/**', 'improved-materials/**', 'library.yaml']
+    paths: ['created-books/**', 'improved-materials/**', 'translated-books/**', 'library.yaml']
   workflow_dispatch:
 
 permissions:
@@ -23,7 +23,7 @@ jobs:
       - name: Find the books
         id: books
         run: |
-          find created-books improved-materials -mindepth 2 -maxdepth 2 -name book.yaml \
+          find created-books improved-materials translated-books -mindepth 2 -maxdepth 2 -name book.yaml \
             -exec dirname {} \; > books.txt 2>/dev/null || true
           echo "count=$(wc -l < books.txt)" >> "$GITHUB_OUTPUT"
           cat books.txt

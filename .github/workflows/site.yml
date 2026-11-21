@@ -6,7 +6,7 @@ name: Website
 on:
   push:
     branches: [main]
-    paths: ['created-books/**', 'improved-materials/**', 'site/**', 'library.yaml']
+    paths: ['created-books/**', 'improved-materials/**', 'translated-books/**', 'site/**', 'library.yaml']
   workflow_dispatch:
 
 permissions:
@@ -32,7 +32,7 @@ jobs:
       - name: Find the books
         id: books
         run: |
-          n=$(find created-books improved-materials -mindepth 2 -maxdepth 2 -name book.yaml 2>/dev/null | wc -l)
+          n=$(find created-books improved-materials translated-books -mindepth 2 -maxdepth 2 -name book.yaml 2>/dev/null | wc -l)
           echo "count=$n" >> "$GITHUB_OUTPUT"
 
       - name: Get the Syllabook scripts
