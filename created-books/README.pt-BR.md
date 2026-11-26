@@ -1,11 +1,11 @@
-<!-- translation-of: README.md sha256:86e10c1158cc -->
+<!-- translation-of: README.md sha256:0f39ca502b28 -->
 # 📗 Livros criados
 
 [English](README.md) | **Português**
 
 Livros feitos pela skill a partir de um tema, com a ementa discutida e aprovada antes de qualquer capítulo. Vão do básico ao intermediário e terminam com os próximos caminhos para continuar estudando.
 
-Cada livro fica numa pasta própria (`created-books/<nome-do-livro>/`) e pode ser lido aqui no GitHub, no [site](../site/README.pt-BR.md) com busca ou baixado como EPUB.
+Cada livro fica numa pasta própria (`created-books/<nome-do-livro>/`) e pode ser lido aqui no GitHub, no site com busca (coluna **Site** abaixo) ou baixado como EPUB.
 
 <!-- list:start -->
 *Nenhum livro ainda.*

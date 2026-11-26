@@ -4,7 +4,7 @@
 
 Books from this library translated and adapted by the skill into another language: the same chapters, with examples, references and wording made for readers of that language. The code and its real outputs stay the same.
 
-Each translation has its own folder (`translated-books/<book-name>-<language>/`) and can be read here on GitHub, on the searchable [site](../site/) or downloaded as an EPUB. The original stays in `created-books/` or `improved-materials/`.
+Each translation has its own folder (`translated-books/<book-name>-<language>/`) and can be read here on GitHub, on the searchable website (the **Site** column below) or downloaded as an EPUB. The original stays in `created-books/` or `improved-materials/`.
 
 <!-- list:start -->
 *No translations yet.*

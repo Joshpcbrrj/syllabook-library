@@ -4,7 +4,7 @@
 
 Study materials (Notion notes, PDFs, EPUBs, handouts) improved by the skill. They keep the purpose of the original, with fixes, what was missing and clearer explanations, for study, review and research.
 
-Each material has its own folder (`improved-materials/<material-name>/`) and can be read here on GitHub, on the searchable [site](../site/) or downloaded as an EPUB. Only the structure, topics and goals of the original are used; the original itself is never published.
+Each material has its own folder (`improved-materials/<material-name>/`) and can be read here on GitHub, on the searchable website (the **Site** column below) or downloaded as an EPUB. Only the structure, topics and goals of the original are used; the original itself is never published.
 
 <!-- list:start -->
 *No materials yet.*

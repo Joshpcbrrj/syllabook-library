@@ -4,7 +4,7 @@
 
 Books written by the skill from a topic, with the syllabus discussed and approved before any chapter. They go from beginner to intermediate and end with next steps to keep studying.
 
-Each book has its own folder (`created-books/<book-name>/`) and can be read here on GitHub, on the searchable [site](../site/) or downloaded as an EPUB.
+Each book has its own folder (`created-books/<book-name>/`) and can be read here on GitHub, on the searchable website (the **Site** column below) or downloaded as an EPUB.
 
 <!-- list:start -->
 *No books yet.*

@@ -5,9 +5,16 @@
 Books for studying on my own, written and improved with [Syllabook](https://github.com/Joshpcbrrj/syllabook).
 
 - 🌐 **Read online, with search across every book:** `https://<user>.github.io/<repository>/`
-- 📗 [Created books](created-books/): written from a syllabus, from beginner to intermediate.
-- 🔁 [Improved materials](improved-materials/): study materials made clearer and more complete.
-- 🌐 [Translated books](translated-books/): books from this library adapted to another language.
 - 📥 **EPUB** for any e-reader: in the **Releases** of this repository, or next to each book in the lists.
 
 Found an error? Open an issue: every correction helps the next reader.
+
+<!-- tracks:start -->
+## 📂 Folders
+
+| Folder | Books |
+| --- | --- |
+| [📗 Created books](created-books/) | 0 |
+| [🔁 Improved materials](improved-materials/) | 0 |
+| [🌐 Translated books](translated-books/) | 0 |
+<!-- tracks:end -->
